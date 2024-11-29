@@ -6,11 +6,11 @@
   }  
   header{
       padding: 20px;
-      border: 4px dashed #b2df85;
+      border: 4px dashed #e9b84e;
   }
       body{
       font-family: 'arial';
-      background-color: #4e3a22;
+      background-color: #130f0a;
       color:rgba(231, 184, 83, 0.886);
       margin:10px auto;
       text-align: center;
